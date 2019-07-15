@@ -1,7 +1,7 @@
 <section class="navbar">
     <nav class="navbar fixed-top navbar-expand-lg" style="background-color: #1295C9">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="/">
                 <img src="images/HIMPRO-logo.png" width="" height="60" class="d-inline-block align-top" alt="">
             </a>
             <button class="custom-toggler navbar-toggler" type="button" data-toggle="collapse"
@@ -15,7 +15,7 @@
                         <a class="nav-link" href="/">HOME</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="">ARTICLE</a>
+                        <a class="nav-link" href="/article">ARTICLE</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="">CHEMENGFAIR</a>

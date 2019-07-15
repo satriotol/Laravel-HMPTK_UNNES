@@ -12,4 +12,7 @@ class BeritaKitaController extends Controller
     public function lihatberita(){
         return view('pages.lihat_berita');
     }
+    public function article(){
+        return view('pages.article');
+    }
 }
