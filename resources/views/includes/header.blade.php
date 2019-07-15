@@ -12,16 +12,16 @@
             <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
                 <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.php">HOME</a>
+                        <a class="nav-link" href="/">HOME</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="menu_article.php">ARTICLE</a>
+                        <a class="nav-link" href="">ARTICLE</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="menu_chemengfair.php">CHEMENGFAIR</a>
+                        <a class="nav-link" href="">CHEMENGFAIR</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="isi_data_alumni.php">ALUMNI</a>
+                        <a class="nav-link" href="">ALUMNI</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
