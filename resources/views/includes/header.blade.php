@@ -18,7 +18,7 @@
                         <a class="nav-link" href="/article">ARTICLE</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="">CHEMENGFAIR</a>
+                        <a class="nav-link" href="/chemengfair">CHEMENGFAIR</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="">ALUMNI</a>

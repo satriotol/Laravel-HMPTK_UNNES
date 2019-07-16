@@ -112,12 +112,12 @@ a.dropdown-item {
     }
 
     .tampilan-berita h2 {
-        font-size: 20px;
+        /* font-size: 20px; */
         text-align: center;
     }
 
     .tampilan-berita p {
-        font-size: 12px;
+        /* font-size: 12px; */
     }
 }
 
