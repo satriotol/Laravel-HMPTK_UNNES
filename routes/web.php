@@ -15,3 +15,4 @@ Route::get('/','beritakitaController@home');
 Route::get('/lihatberita','beritakitaController@lihatberita');
 Route::get('/article','beritakitaController@article');
 Route::get('/chemengfair','beritakitaController@chemengfair');
+Route::get('/alumni','beritakitaController@alumni');

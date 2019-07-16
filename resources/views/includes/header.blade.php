@@ -21,7 +21,7 @@
                         <a class="nav-link" href="/chemengfair">CHEMENGFAIR</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="">ALUMNI</a>
+                        <a class="nav-link" href="/alumni">ALUMNI</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"

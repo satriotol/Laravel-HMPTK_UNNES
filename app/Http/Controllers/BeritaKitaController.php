@@ -18,4 +18,7 @@ class BeritaKitaController extends Controller
     public function chemengfair(){
         return view('pages.chemengfair');
     }
+    public function alumni(){
+        return view('pages.alumni');
+    }
 }
