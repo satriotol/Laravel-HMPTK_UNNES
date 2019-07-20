@@ -14,10 +14,26 @@
         border-radius: 10px;
     }
 
+    .about p {
+        text-align: justify;
+    }
+
     h2 {
         font-size: 50px;
         font-weight: 900;
         color: #B3B3BB;
+    }
+
+    .img-about {
+        width: 100%;
+        max-width: 500px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .hr-about{
+        border: 2px solid #B3B3BB;
+        width: 10%;
     }
 
     .background-image {
@@ -30,7 +46,9 @@
     <div class="container-fluid background-image">
         <div class="jarak-about">
             <div class="container about">
-                <h2 class="text-center">ABOUT</h2>
+                <h2 class="text-center mb-2">ABOUT</h2>
+                <hr class="hr-about mb-5">
+                <img class="img-about mb-5" src="images/demo/fak_teknik.jpg" alt="">
                 <p>Himpunan Mahasiswa Profesi Teknik Kimia FT UNNES adalah organisasi yang bergerak untuk memberikan
                     wadah
                     aspirasi
@@ -51,11 +69,13 @@
                     dilaksanakan. Saat ini Himpro Teknik Kimia FT-UNNES memiliki pengurus 53 orang dan terbagi menjadi
                     Pengurus
                     Harian dan 7 departemen , antara lain :</p>
-                <h2 class="text-center">VISION</h2>
+                <h2 class="text-center mt-5 mb-2">VISION</h2>
+                <hr class="hr-about mb-5">
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, modi impedit earum natus
                     perferendis sunt. Ducimus quibusdam suscipit consequuntur dolore. Unde iusto ducimus hic ad
                     asperiores maiores atque culpa adipisci?</p>
-                <h2 class="text-center">MISSION</h2>
+                <h2 class="text-center mt-5 mb-2">MISSION</h2>
+                <hr class="hr-about mb-5">
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor totam soluta accusantium consequuntur?
                     Ipsum eos quasi alias quas maiores, voluptatem aperiam autem, ullam reiciendis dolore officia natus
                     quia, at et?</p>
