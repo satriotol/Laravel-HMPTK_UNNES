@@ -21,4 +21,7 @@ class BeritaKitaController extends Controller
     public function alumni(){
         return view('pages.alumni');
     }
+    public function aboutus(){
+        return view('pages.aboutus');
+    }
 }
