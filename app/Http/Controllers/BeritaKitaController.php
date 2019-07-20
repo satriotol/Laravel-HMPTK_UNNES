@@ -27,4 +27,7 @@ class BeritaKitaController extends Controller
     public function kontak(){
         return view('pages.kontak');
     }
+    public function departemen(){
+        return view('pages.departemen');
+    }
 }
