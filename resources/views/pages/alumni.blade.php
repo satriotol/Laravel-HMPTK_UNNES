@@ -5,7 +5,12 @@
         margin-top: 66px;
         padding-top: 30px;
         padding-bottom: 30px;
+    }
 
+    @media screen and (max-width: 700px) {
+        .form-jarak {
+            margin-top: 50px;
+        }
     }
 
     .form-alumni {
@@ -18,6 +23,10 @@
     .background-image {
         background: linear-gradient(rgba(255, 255, 255, 0.90), rgb(255, 255, 255, 0.90)),
             url(../images/texture.jpg) repeat 0 0 / 12.5% auto !important;
+    }
+
+    .input-group-text {
+        width: 200px;
     }
 
 </style>
@@ -33,39 +42,42 @@
                     <br><br>
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
-                            <span class="input-group-text" id="basic-addon1">@</span>
+                            <span class="input-group-text" id="basic-addon1">Nama Lengkap</span>
                         </div>
-                        <input type="text" class="form-control" placeholder="Username" aria-label="Username"
+                        <br>
+                        <input type="text" class="form-control" placeholder="Masukkan Nama..." aria-label="Username"
                             aria-describedby="basic-addon1">
                     </div>
                     <div class="input-group mb-3">
-                        <input type="text" class="form-control" placeholder="Recipient's username"
-                            aria-label="Recipient's username" aria-describedby="basic-addon2">
-                        <div class="input-group-append">
-                            <span class="input-group-text" id="basic-addon2">@example.com</span>
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="basic-addon1">E-mail</span>
                         </div>
+                        <input type="text" class="form-control" placeholder="Masukkan E-mail..."
+                            aria-label="Masukkan E-mail..." aria-describedby="basic-addon2">
                     </div>
-                    <label for="basic-url">Your vanity URL</label>
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
-                            <span class="input-group-text" id="basic-addon3">https://example.com/users/</span>
+                            <span class="input-group-text" id="basic-addon1">Nomor Telepon</span>
                         </div>
-                        <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3">
+                        <input type="text" class="form-control" placeholder="Masukkan Nomor Telepon..."
+                            aria-label="Masukkan Nomor Telepon..." aria-describedby="basic-addon1">
                     </div>
-
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
-                            <span class="input-group-text">$</span>
+                            <span class="input-group-text" id="basic-addon1">Angkatan/Jenjang S1/D3</span>
                         </div>
-                        <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)">
-                        <div class="input-group-append">
-                            <span class="input-group-text">.00</span>
-                        </div>
+                        <input type="text" class="form-control" placeholder="Masukkan Jenjang..."
+                            aria-label="Masukkan Jenjang..." aria-describedby="basic-addon1">
                     </div>
-
-                    <div class="input-group">
+                    <div class="input-group mb-3">
                         <div class="input-group-prepend">
-                            <span class="input-group-text">With textarea</span>
+                            <span class="input-group-text">Alamat Rumah</span>
+                        </div>
+                        <textarea class="form-control" aria-label="With textarea"></textarea>
+                    </div>
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">Alamat Bekerja</span>
                         </div>
                         <textarea class="form-control" aria-label="With textarea"></textarea>
                     </div>
