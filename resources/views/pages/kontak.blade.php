@@ -71,8 +71,6 @@
                 <div class="peta text-center mb-3">
                     <h3 class="main-page-title border-bawah">PETA</h3>
                     <div class="container">
-                        <div id="googleMap" style="width:100%;height:400px;"></div>
-
                     </div>
                 </div>
                 <div class="peta text-center mb-3">
