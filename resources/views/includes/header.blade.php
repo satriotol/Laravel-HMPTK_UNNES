@@ -2,7 +2,7 @@
     <nav class="navbar fixed-top navbar-expand-lg" style="background-color: #1295C9">
         <div class="container-fluid">
             <a class="navbar-brand" href="/">
-                <img src="images/HIMPRO-logo.png" width="" height="60" class="d-inline-block align-top" alt="">
+                <img src="/images/HIMPRO-logo.png" width="60" height="60" class="d-inline-block align-top" alt="">
             </a>
             <button class="custom-toggler navbar-toggler" type="button" data-toggle="collapse"
                 data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false"
