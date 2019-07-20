@@ -95,21 +95,22 @@
                             <!-- Special 20% Discount for Elegant Themes Divi Page Builder https://www.embedgooglemap.net/divi-sale/ -->
                         </div>
                     </div>
-                    <div class="peta text-center mb-3">
-                        <h3 class="main-page-title border-bawah">ALAMAT</h3>
-                        <div class="container">
-                            <p>GD. PKM FT-UNIVERSITAS NEGERI SEMARANG, SEKARAN, GUNUNGPATI</p>
-                        </div>
+                </div>
+                <div class="peta text-center mb-3">
+                    <h3 class="main-page-title border-bawah">ALAMAT</h3>
+                    <div class="container">
+                        <p>GD. PKM FT-UNIVERSITAS NEGERI SEMARANG, SEKARAN, GUNUNGPATI</p>
                     </div>
-                    <div class="peta text-center">
-                        <h3 class="main-page-title border-bawah">KONTAK</h3>
-                        <div class="container">
-                            <p> <i class="fa fa-envelope"></i> himatekkimunnes@gmail.com</p>
-                        </div>
+                </div>
+                <div class="peta text-center">
+                    <h3 class="main-page-title border-bawah">KONTAK</h3>
+                    <div class="container">
+                        <p> <i class="fa fa-envelope"></i> himatekkimunnes@gmail.com</p>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
 
 </section>
 <script>
