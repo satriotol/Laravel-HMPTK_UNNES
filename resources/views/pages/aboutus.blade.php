@@ -38,6 +38,7 @@
         margin-right: auto;
     }
 
+
     .hr-about {
         border: 2px solid #B3B3BB;
         width: 10%;
@@ -47,7 +48,8 @@
         background: linear-gradient(rgba(255, 255, 255, 0.90), rgb(255, 255, 255, 0.90)),
             url(../images/texture.jpg) repeat 0 0 / 12.5% auto !important;
     }
-    .isi-about{
+
+    .isi-about {
         font-size: 18px;
     }
 
