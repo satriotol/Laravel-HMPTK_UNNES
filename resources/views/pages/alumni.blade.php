@@ -14,7 +14,7 @@
     }
 
     .form-alumni {
-        background-color: white;
+        background-color: #EFEFF1;
         padding: 20px;
         border: 1px solid grey;
         border-radius: 10px;
@@ -27,6 +27,10 @@
 
     .input-group-text {
         width: 200px;
+    }
+
+    .text-center h2{
+        font-weight: bold;
     }
 
 </style>
@@ -71,13 +75,15 @@
                     </div>
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
-                            <span class="input-group-text">Alamat Rumah</span>
+                            <span class="input-group-text" placeholder="Masukkan Alamat Rumah..."
+                            aria-label="Masukkan Alamat Rumah...">Alamat Rumah</span>
                         </div>
                         <textarea class="form-control" aria-label="With textarea"></textarea>
                     </div>
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
-                            <span class="input-group-text">Alamat Bekerja</span>
+                            <span class="input-group-text" placeholder="Masukkan Alamat Kantor"
+                            aria-label="Masukkan Alamat Kantor">Alamat Bekerja</span>
                         </div>
                         <textarea class="form-control" aria-label="With textarea"></textarea>
                     </div>
