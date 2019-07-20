@@ -34,7 +34,7 @@
                             <a class="dropdown-item" href="menu_kabinet.php">KABINET</a>
                             <a class="dropdown-item" href="menu_departement">DEPARTEMEN</a>
                             <a class="dropdown-item" href="http://tekkim.unnes.ac.id">JURUSAN</a>
-                            <a class="dropdown-item" href="kontak_kami.php">KONTAK</a>
+                            <a class="dropdown-item" href="/kontak">KONTAK</a>
                         </div>
                     </li>
                 </ul>
