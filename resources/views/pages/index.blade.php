@@ -1,27 +1,27 @@
 @extends('layouts.default')
 @section('content')
 <body>
-    
+
     <section class="slide">
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <div id="carouselExampleIndicators" class="carousel slide " data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
             </ol>
             <div class="carousel-inner">
-                <div class="carousel-item active">
+                <div class="carousel-item active peopleCarouselImg">
                     <img class="d-block w-100" src="images/download.svg" alt="First slide">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Selamat Datang</h5>
                         <p>HIMPROTEKKIM UNNES</p>
                     </div>
                 </div>
-                <div class="carousel-item">
-                    <img class="d-block w-100" src="images/download.svg" alt="Second slide">
+                <div class="carousel-item peopleCarouselImg">
+                    <img class="d-block w-100" src="upload/default.jpg" alt="Second slide">
                 </div>
-                <div class="carousel-item">
-                    <img class="d-block w-100" src="images/download.svg" alt="Third slide">
+                <div class="carousel-item peopleCarouselImg">
+                    <img class="d-block w-100" src="upload/5c85fc638aac9.jpg" alt="Third slide">
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -177,5 +177,6 @@
     $(document).ready(function () {
         $('#bs-example-navbar-collapse-2').css("visibility", "hidden");
     });
+
 </script>
 @stop

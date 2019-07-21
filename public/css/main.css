@@ -38,6 +38,18 @@ a.dropdown-item {
     margin-top: 70px;
 }
 
+.peopleCarouselImg img {
+    height: 665px;
+    max-height: 665px;
+}
+
+@media screen and (max-width: 700px) {
+    .peopleCarouselImg img {
+        height: 175px;
+        max-height: 175px;
+    }
+}
+
 
 @media screen and (max-width: 700px) {
     .navbar-brand img {
@@ -114,10 +126,6 @@ a.dropdown-item {
     .tampilan-berita h2 {
         /* font-size: 20px; */
         text-align: center;
-    }
-
-    .tampilan-berita p {
-        /* font-size: 12px; */
     }
 }
 
