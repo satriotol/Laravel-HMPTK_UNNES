@@ -1,6 +1,5 @@
 @extends('layouts.default')
 @section('content')
-
 <body>
     <div class="latar-lihat-berita container-fluid">
         <div class="article container-fluid">
@@ -17,63 +16,63 @@
                 <div class="col-md-3 jarak">
                     <a href="">
                         <div class="module text-center">
-                            <i class="fa fa-briefcase color1 ot-circle">
+                            <img class="" src="images/departemen/HRD.png" alt="">
                             </i>
-                            <p>HRD</p>
+                            <p class="mt-3">HRD</p>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
                     <a href="">
                         <div class="module text-center">
-                            <i class="fa fa-briefcase color1 ot-circle">
+                            <img class="" src="images/departemen/PRC.png" alt="">
                             </i>
-                            <p>PRC</p>
+                            <p class="mt-3">PRC</p>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
                     <a href="">
                         <div class="module text-center">
-                            <i class="fa fa-briefcase color1 ot-circle">
+                            <img class="" src="images/departemen/SED.png" alt="">
                             </i>
-                            <p>SED</p>
+                            <p class="mt-3">SED</p>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
                     <a href="">
                         <div class="module text-center">
-                            <i class="fa fa-briefcase color1 ot-circle">
+                            <img class="" src="images/departemen/RNT.png" alt="">
                             </i>
-                            <p>RNT</p>
+                            <p class="mt-3">RNT</p>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
                     <a href="">
                         <div class="module text-center">
-                            <i class="fa fa-briefcase color1 ot-circle">
+                            <img class="" src="images/departemen/STD.png" alt="">
                             </i>
-                            <p>STD</p>
+                            <p class="mt-3">STD</p>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
                     <a href="">
                         <div class="module text-center">
-                            <i class="fa fa-briefcase color1 ot-circle">
+                            <img class="" src="images/departemen/SOCDEV.png" alt="">
                             </i>
-                            <p>SOCDEV</p>
+                            <p class="mt-3">SOCDEV</p>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
                     <a href="">
                         <div class="module text-center">
-                            <i class="fa fa-briefcase color1 ot-circle">
+                            <img class="" src="images/departemen/TECHNO.png" alt="">
                             </i>
-                            <p>TECHNO</p>
+                            <p class="mt-3">TECHNO</p>
                         </div>
                     </a>
                 </div>

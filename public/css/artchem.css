@@ -31,13 +31,29 @@
     font-size: 75px;
     color: white;
     transition: all .3s;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
 }
 
 .module:hover .ot-circle {
     color: #fed136;
-
 }
 
+/* departemen */
+.module img {
+    height: 150px;
+    width: auto;
+    filter: grayscale(100);
+    transition: all .3s;
+}
+
+.module:hover img {
+    filter: none;
+}
+
+/* departemen end */
 @media screen and (max-width: 700px) {
     .jarak {
         margin-bottom: 40px;
