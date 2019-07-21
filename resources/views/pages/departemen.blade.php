@@ -1,9 +1,26 @@
 @extends('layouts.default')
 @section('content')
+<style>
+    .coba {
+        animation:coba 5s ease;
+    }
+    @keyframes coba{
+        0% {
+            opacity: 0;
+            margin-top: 100px;
+        }
+        100%{
+            opacity: 1;
+            margin-top: 0px;
+        }
+    }
+
+</style>
+
 <body>
     <div class="latar-lihat-berita container-fluid">
         <div class="article container-fluid">
-            <div class="row">
+            <div class="row coba">
                 <div class="col-md-3 jarak">
                     <a href="">
                         <div class="module text-center">
