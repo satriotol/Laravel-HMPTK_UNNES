@@ -10,7 +10,7 @@
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>GA</p>
                         </div>
                     </a>
                 </div>
@@ -19,7 +19,7 @@
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>HRD</p>
                         </div>
                     </a>
                 </div>
@@ -28,7 +28,7 @@
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>PRC</p>
                         </div>
                     </a>
                 </div>
@@ -37,7 +37,7 @@
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>SED</p>
                         </div>
                     </a>
                 </div>
@@ -46,7 +46,7 @@
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>RNT</p>
                         </div>
                     </a>
                 </div>
@@ -55,7 +55,7 @@
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>STD</p>
                         </div>
                     </a>
                 </div>
@@ -64,7 +64,7 @@
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>SOCDEV</p>
                         </div>
                     </a>
                 </div>
@@ -73,7 +73,7 @@
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>TECHNO</p>
                         </div>
                     </a>
                 </div>
