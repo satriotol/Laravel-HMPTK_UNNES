@@ -15,6 +15,8 @@ Route::get('/','beritakitaController@home');
 Route::get('/lihatberita','beritakitaController@lihatberita');
 Route::get('/article','beritakitaController@article');
 Route::get('article/event','beritakitaController@event');
+Route::get('article/chemist','beritakitaController@chemist');
+Route::get('article/advokasi','beritakitaController@advokasi');
 Route::get('/chemengfair','beritakitaController@chemengfair');
 Route::get('/alumni','beritakitaController@alumni');
 Route::get('/aboutus','beritakitaController@aboutus');

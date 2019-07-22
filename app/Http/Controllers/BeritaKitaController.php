@@ -18,6 +18,12 @@ class BeritaKitaController extends Controller
     public function event(){
         return view('pages.menuarticle.event');
     }
+    public function chemist(){
+        return view('pages.menuarticle.chemist');
+    }
+    public function advokasi(){
+        return view('pages.menuarticle.advokasi');
+    }
     public function chemengfair(){
         return view('pages.chemengfair');
     }

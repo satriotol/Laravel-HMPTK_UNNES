@@ -24,7 +24,7 @@
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
-                    <a href="">
+                    <a href="article/chemist">
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
@@ -33,7 +33,7 @@
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
-                    <a href="">
+                    <a href="article/advokasi">
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>

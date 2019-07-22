@@ -38,14 +38,14 @@
         <div class="container">
             <div class="row">
                 <div class="offset-sm-4 col-sm-4 text-center">
-                    <h2 class="main-page-title">EVENT</h2>
+                    <h2 class="main-page-title">CHEMIST</h2>
                 </div>
             </div>
         </div>
         <section class="isi-berita">
             <div class="container">
                 <div class="penjelasan">
-                    <h2>EVENT</h2>
+                    <h2>CHEMIST</h2>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos quibusdam quos, itaque iure nisi
                         tempora architecto. Possimus similique ducimus aut, obcaecati perspiciatis eius quae dicta ad?
                         Ipsa velit quos nobis? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae laborum
