@@ -15,11 +15,11 @@
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
-                    <a href="">
+                    <a href="article/event">
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>EVENT</p>
                         </div>
                     </a>
                 </div>
@@ -28,7 +28,7 @@
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>CHEMIST</p>
                         </div>
                     </a>
                 </div>
@@ -37,7 +37,7 @@
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>ADVOKASI</p>
                         </div>
                     </a>
                 </div>
@@ -46,7 +46,7 @@
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>OPREC</p>
                         </div>
                     </a>
                 </div>
@@ -55,7 +55,7 @@
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>MATERI</p>
                         </div>
                     </a>
                 </div>
@@ -64,7 +64,7 @@
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>CERC</p>
                         </div>
                     </a>
                 </div>
@@ -73,7 +73,7 @@
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>STORE</p>
                         </div>
                     </a>
                 </div>

@@ -15,6 +15,9 @@ class BeritaKitaController extends Controller
     public function article(){
         return view('pages.article');
     }
+    public function event(){
+        return view('pages.menuarticle.event');
+    }
     public function chemengfair(){
         return view('pages.chemengfair');
     }
