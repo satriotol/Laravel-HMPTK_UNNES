@@ -1,5 +1,32 @@
 @extends('layouts.default')
 @section('content')
+<style>
+    .isi .isi-berita {
+        animation: coba 2s ease;
+    }
+    .main-page-title{
+        animation: main-page-title 3s ease;
+    }
+    @keyframes coba {
+        0% {
+            opacity: 0;
+            margin-top: 200px;
+        }
+        100% {
+            opacity: 1;
+            margin-top: 50px;
+        }
+    }
+    @keyframes main-page-title {
+        0% {
+            opacity: 0;
+        }
+        100% {
+            opacity: 1;
+        }
+    }
+</style>
+
 <body>
 
     <section class="slide">

@@ -3,6 +3,8 @@
 <style>
     .coba {
         animation:coba 5s ease;
+        /* animation-delay: 5s; */
+
     }
     @keyframes coba{
         0% {
