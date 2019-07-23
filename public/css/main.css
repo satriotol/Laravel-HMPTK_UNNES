@@ -3,20 +3,27 @@ a {
 }
 
 /* NAVBAR */
-.navbar a {
+
+.nav-item .nav-link {
     color: white;
 }
 
-.navbar a:hover {
-    color: #fed136;
+@media (min-width: 992px) {
+    .nav-utama .nav-link:hover::after {
+        content: '';
+        display: block;
+        border-bottom: 3px solid #fed136;
+        border-radius: 5px;
+        width: 50%;
+        margin: auto;
+        padding-bottom: 5px;
+        margin-bottom: -8px;
+    }
 }
 
-a.dropdown-item {
-    color: #1295C9;
-}
 
-.activeMenuItem {
-    color: #fed136;
+.dropdown-item:hover {
+    background-color: #fed136;
 }
 
 .custom-toggler .navbar-toggler-icon {
@@ -75,6 +82,7 @@ a.dropdown-item {
 .penjelasan p {
     text-align: justify
 }
+
 .isi {
     margin-top: 86px;
 }
@@ -112,6 +120,7 @@ a.dropdown-item {
 .row .col-sm-8 {
     border-right: 1px solid grey;
 }
+
 @media screen and (max-width: 700px) {
     .row .col-sm-8 {
         border-right: 0px;
