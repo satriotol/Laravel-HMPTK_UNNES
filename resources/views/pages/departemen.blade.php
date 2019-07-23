@@ -1,6 +1,6 @@
 @extends('layouts.default')
 @section('content')
-<style>
+{{-- <style>
     .coba {
         animation:coba 5s ease;
         /* animation-delay: 5s; */
@@ -17,14 +17,14 @@
         }
     }
 
-</style>
+</style> --}}
 
 <body>
     <div class="latar-lihat-berita container-fluid">
         <div class="article container-fluid">
             <div class="row coba">
                 <div class="col-md-3 jarak">
-                    <a href="">
+                    <a href="departemen/ga">
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
@@ -33,7 +33,7 @@
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
-                    <a href="">
+                    <a href="departemen/hrd">
                         <div class="module text-center">
                             <img class="" src="images/departemen/HRD.png" alt="">
                             </i>
@@ -42,7 +42,7 @@
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
-                    <a href="">
+                    <a href="departemen/prc">
                         <div class="module text-center">
                             <img class="" src="images/departemen/PRC.png" alt="">
                             </i>
@@ -51,7 +51,7 @@
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
-                    <a href="">
+                    <a href="departemen/sed">
                         <div class="module text-center">
                             <img class="" src="images/departemen/SED.png" alt="">
                             </i>
@@ -60,7 +60,7 @@
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
-                    <a href="">
+                    <a href="departemen/rnt">
                         <div class="module text-center">
                             <img class="" src="images/departemen/RNT.png" alt="">
                             </i>
@@ -69,7 +69,7 @@
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
-                    <a href="">
+                    <a href="departemen/std">
                         <div class="module text-center">
                             <img class="" src="images/departemen/STD.png" alt="">
                             </i>
@@ -78,7 +78,7 @@
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
-                    <a href="">
+                    <a href="socdev">
                         <div class="module text-center">
                             <img class="" src="images/departemen/SOCDEV.png" alt="">
                             </i>
@@ -87,7 +87,7 @@
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
-                    <a href="">
+                    <a href="departemen/techno">
                         <div class="module text-center">
                             <img class="" src="images/departemen/TECHNO.png" alt="">
                             </i>
