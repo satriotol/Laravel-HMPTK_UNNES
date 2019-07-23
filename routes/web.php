@@ -13,6 +13,8 @@
 
 Route::get('/','beritakitaController@home');
 Route::get('/lihatberita','beritakitaController@lihatberita');
+
+// article
 Route::get('/article','beritakitaController@article');
 Route::get('article/event','beritakitaController@event');
 Route::get('article/chemist','beritakitaController@chemist');
@@ -21,7 +23,18 @@ Route::get('article/oprec','beritakitaController@oprec');
 Route::get('article/materi','beritakitaController@materi');
 Route::get('article/cerc','beritakitaController@cerc');
 Route::get('article/store','beritakitaController@store');
+// end of article
+
+// chemengfair
 Route::get('/chemengfair','beritakitaController@chemengfair');
+Route::get('/chemengfair/semnas','beritakitaController@semnas');
+Route::get('/chemengfair/iso','beritakitaController@iso');
+Route::get('/chemengfair/cesa','beritakitaController@cesa');
+Route::get('/chemengfair/s2c','beritakitaController@s2c');
+Route::get('/chemengfair/ception','beritakitaController@ception');
+Route::get('/chemengfair/chemengawards','beritakitaController@chemengawards');
+// end of chemengfair
+
 Route::get('/alumni','beritakitaController@alumni');
 Route::get('/aboutus','beritakitaController@aboutus');
 Route::get('/kontak','beritakitaController@kontak');

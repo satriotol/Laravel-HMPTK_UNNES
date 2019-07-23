@@ -6,56 +6,56 @@
         <div class="article container-fluid">
             <div class="row">
                 <div class="col-md-4 jarak">
-                    <a href="">
+                    <a href="chemengfair/semnas">
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>SEMINAR NASIONAL</p>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-4 jarak">
-                    <a href="">
+                    <a href="chemengfair/iso">
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>ISO</p>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-4 jarak">
-                    <a href="">
+                    <a href="chemengfair/cesa">
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>CESA</p>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-4 jarak">
-                    <a href="">
+                    <a href="chemengfair/s2c">
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>S2C</p>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-4 jarak">
-                    <a href="">
+                    <a href="chemengfair/ception">
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>CEPTION</p>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-4 jarak">
-                    <a href="">
+                    <a href="chemengfair/chemengawards">
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
-                            <p>PRESS RELEASE</p>
+                            <p>CHEMENG AWARDS</p>
                         </div>
                     </a>
                 </div>

@@ -12,6 +12,8 @@ class BeritaKitaController extends Controller
     public function lihatberita(){
         return view('pages.lihat_berita');
     }
+
+    // article
     public function article(){
         return view('pages.article');
     }
@@ -36,9 +38,32 @@ class BeritaKitaController extends Controller
     public function store(){
         return view('pages.menuarticle.store');
     }
+    // end of article
+
+    // chemengfair
     public function chemengfair(){
         return view('pages.chemengfair');
     }
+    public function semnas(){
+        return view('pages.menuchemengfair.semnas');
+    }
+    public function iso(){
+        return view('pages.menuchemengfair.iso');
+    }
+    public function cesa(){
+        return view('pages.menuchemengfair.cesa');
+    }
+    public function s2c(){
+        return view('pages.menuchemengfair.s2c');
+    }
+    public function ception(){
+        return view('pages.menuchemengfair.ception');
+    }
+    public function chemengawards(){
+        return view('pages.menuchemengfair.chemengawards');
+    }
+    // end of chemengfair
+
     public function alumni(){
         return view('pages.alumni');
     }
