@@ -35,6 +35,18 @@ Route::get('/chemengfair/ception','beritakitaController@ception');
 Route::get('/chemengfair/chemengawards','beritakitaController@chemengawards');
 // end of chemengfair
 
+// Departement
+Route::get('/departemen','beritakitaController@departemen');
+Route::get('/departemen/ga','beritakitaController@ga');
+Route::get('/departemen/hrd','beritakitaController@hrd');
+Route::get('/departemen/prc','beritakitaController@prc');
+Route::get('/departemen/sed','beritakitaController@sed');
+Route::get('/departemen/rnt','beritakitaController@rnt');
+Route::get('/departemen/std','beritakitaController@std');
+Route::get('/departemen/socdev','beritakitaController@socdev');
+Route::get('/departemen/techno','beritakitaController@techno');
+// end of chemengfair
+
 Route::get('/alumni','beritakitaController@alumni');
 Route::get('/aboutus','beritakitaController@aboutus');
 Route::get('/kontak','beritakitaController@kontak');
