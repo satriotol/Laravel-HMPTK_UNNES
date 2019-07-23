@@ -6,7 +6,7 @@
         <div class="article container-fluid">
             <div class="row">
                 <div class="col-md-3 jarak">
-                    <a href="">
+                    <a href="/">
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
@@ -42,7 +42,7 @@
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
-                    <a href="">
+                    <a href="article/oprec">
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
@@ -51,7 +51,7 @@
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
-                    <a href="">
+                    <a href="article/materi">
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
@@ -60,7 +60,7 @@
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
-                    <a href="">
+                    <a href="article/cerc">
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>
@@ -69,7 +69,7 @@
                     </a>
                 </div>
                 <div class="col-md-3 jarak">
-                    <a href="">
+                    <a href="article/store">
                         <div class="module text-center">
                             <i class="fa fa-briefcase color1 ot-circle">
                             </i>

@@ -24,6 +24,18 @@ class BeritaKitaController extends Controller
     public function advokasi(){
         return view('pages.menuarticle.advokasi');
     }
+    public function oprec(){
+        return view('pages.menuarticle.oprec');
+    }
+    public function materi(){
+        return view('pages.menuarticle.materi');
+    }
+    public function cerc(){
+        return view('pages.menuarticle.cerc');
+    }
+    public function store(){
+        return view('pages.menuarticle.store');
+    }
     public function chemengfair(){
         return view('pages.chemengfair');
     }
