@@ -95,6 +95,21 @@ class BeritaKitaController extends Controller
     
     // end of departemen
 
+    // kabinet
+    public function kabinet(){
+        return view('pages.kabinet');
+    }
+    public function kontribusi(){
+        return view('pages.menukabinet.kontribusi');
+    }
+    public function prestasi(){
+        return view('pages.menukabinet.prestasi');
+    }
+    public function inovasi(){
+        return view('pages.menukabinet.inovasi');
+    }
+    // end of kabinet
+
     public function alumni(){
         return view('pages.alumni');
     }

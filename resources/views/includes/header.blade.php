@@ -31,7 +31,7 @@
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <a class="dropdown-item nav-utama" href="aboutus">ABOUT</a>
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item nav-utama" href="menu_kabinet.php">KABINET</a>
+                            <a class="dropdown-item nav-utama" href="/kabinet">KABINET</a>
                             <a class="dropdown-item nav-utama" href="/departemen">DEPARTEMEN</a>
                             <a class="dropdown-item nav-utama" href="http://tekkim.unnes.ac.id" target="_blank">JURUSAN</a>
                             <a class="dropdown-item nav-utama" href="/kontak">KONTAK</a>
