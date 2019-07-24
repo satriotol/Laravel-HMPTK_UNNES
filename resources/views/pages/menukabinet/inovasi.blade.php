@@ -76,13 +76,17 @@
     }
 
     .kabinet-logo img {
-        width: auto;
-        height: 300px;
+        width: 100%;
+        height: auto;
+        /* max-height: 500px; */
+        max-width: 500px;
     }
 
     .kabinet-sto img {
-        width: auto;
-        height: 600px;
+        width: 100%;
+        height: auto;
+        /* max-height: 600px; */
+        max-width: 500px;
     }
 
     .kabinet-sto p {
