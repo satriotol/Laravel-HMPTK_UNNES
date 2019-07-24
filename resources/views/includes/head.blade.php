@@ -16,6 +16,9 @@
     <link href="{{ asset('css/main.css') }}" rel="stylesheet">
     <link href="{{ asset('css/lihat_berita.css') }}" rel="stylesheet">
     <link href="{{ asset('css/artchem.css') }}" rel="stylesheet">
+    <link rel="shortcut icon" href="/images/HIMPRO-logo.png" />
+    <title>HMPTK UNNES</title>
+
 
 </head>
 
